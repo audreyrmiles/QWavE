@@ -5,7 +5,7 @@ QWavE
 
 ### Introduction
 
-QWavE is a python based program designed to solve the 1 dimensional Schrodinger Equation (S.E), and use the solutions from the S.E. to evaluate thermodynamic properties. The intent of this software is t:
+QWavE is a python based program designed to solve the 1 dimensional Schrodinger Equation (S.E), and use the solutions from the S.E. to evaluate thermodynamic properties. The intent of this software is to:
 
 1) Provide teachers/educators a simple and cohesive set of python modules to visulaize the solutions of the time-independent S.E.
 2) Give students an opportunity to solve simple quantum mechanical problems without the need to code large, complex, notebooks, as well as there extensions to statistical mechanics.
